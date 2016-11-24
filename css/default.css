@@ -1,0 +1,72 @@
+/*CSS Structure*/
+/*
+
+
+
+
+
+*/
+
+
+
+
+.nav {
+	padding-top: 45px;
+}
+.contact-phone {
+    font-size: 20px;
+    font-weight: bolder;
+	float:right;
+    color:#00a3e4;
+
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
+ .pppoverview {
+ 	height:500px;
+ 	background-color: 52BFE3;
+ }
+ img {
+ 	cursor: pointer;
+ }
+.nav >li a {
+    color:black;
+}
+.nav >li a:hover {
+    background-color:#fff;
+    color:#00a3e4;
+}
+.overview {
+    width:100%;
+}
+.logo_footer {
+    margin: 0 auto;
+    display:block;
+}
+.slider {
+    width: 100%;
+}
+.clear {
+    
+    height:10px;
+}
+.footer {
+    height: 120px;
+    background-color:#00a3e4;
+    
+    
+}
+.footer .logofooter {
+    margin: 0 auto;
+    display:block;
+}
+.footer .footer_text {
+    font-size: 18px;
+    color: white;
+    margin: 60px 35%;
+    
+}
+
